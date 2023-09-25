@@ -24,8 +24,12 @@ namespace pizzaAPI.Controllers
         [HttpGet("{name}")]
         public ActionResult<Class> GetClassByName(string name)
         {
-            return classService.GetClassByName(name);
-        }
+            var newclass = classService.GetClassByName(name);
+            if (newclass is null)
+                return BadRequest();
+            return newclass;
+
+         }
     }
 }
 
