@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{9F69B0AC-ED9D-424C-9717-A8C129714FCF}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="pizzaAPI/Services/PizzaService.cs">
+    <Files>
+      <File FileName="pizzaAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="pizzaAPI/Models/Pizza.cs" Line="9" Column="9" />
+      <File FileName="pizzaAPI/Services/PizzaService.cs" Line="7" Column="18" />
+      <File FileName="pizzaAPI/Controllers/PizzaController.cs" Line="35" Column="10" />
+      <File FileName="pizzaAPI/Controllers/WeatherForecastController.cs" Line="5" Column="1" />
+      <File FileName="pizzaAPI/Models/Class.cs" Line="7" Column="12" />
+      <File FileName="pizzaAPI/Services/ClassService.cs" Line="13" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pizzaAPI" expanded="True">
+            <Node name="pizzaAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Services" expanded="True">
+                <Node name="PizzaService.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pizzaAPI PreferredExecutionTarget="/Applications/Brave Browser.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
